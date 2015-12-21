@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender", "Sender\Sender.csproj", "{1E7849B7-0187-48BC-8975-F0F2216664B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receiver", "Receiver\Receiver.csproj", "{1FCF54F6-F27B-4828-B445-5FB6AC272032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E7849B7-0187-48BC-8975-F0F2216664B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7849B7-0187-48BC-8975-F0F2216664B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7849B7-0187-48BC-8975-F0F2216664B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7849B7-0187-48BC-8975-F0F2216664B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FCF54F6-F27B-4828-B445-5FB6AC272032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FCF54F6-F27B-4828-B445-5FB6AC272032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FCF54F6-F27B-4828-B445-5FB6AC272032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FCF54F6-F27B-4828-B445-5FB6AC272032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
