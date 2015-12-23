@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Sender
 {
-    class Send
+    class Sender
     {
         static void Main(string[] args)
         {
