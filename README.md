@@ -11,5 +11,7 @@ This repository contains small assignments related to RabbitMQ.
 # How to run
 
 -- Each folder contains a solution file with 2 projects.
+
 -- Run each one in different terminals where one is publisher and other is subscriber. 
+
 -- just send messages from one to receive at other terminal.
